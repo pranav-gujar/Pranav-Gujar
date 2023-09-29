@@ -1,4 +1,5 @@
-### Hi there 👋 <br> Auther-Pranav Gujar
+### Hi there 👋
+Author-Pranav Gujar
 
 <!--
 **pranav-gujar/Pranav-Gujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
