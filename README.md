@@ -1,5 +1,5 @@
 ### Hi there 👋
-Author-Pranav Gujar
+Author-Pranav Gujar(PRG)
 
 <!--
 **pranav-gujar/Pranav-Gujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
